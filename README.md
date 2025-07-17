@@ -59,4 +59,3 @@ Todo el contenido está disponible bajo la licencia [Creative Commons Attributio
 > 📬 ¿Tienes ideas, sugerencias o deseas colaborar?  
 > Escríbenos a **codeedulab@gmail.com** o abre un *issue* en el repositorio correspondiente.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodeEduLab&theme=whatsapp-dark2)](https://git.io/streak-stats)
